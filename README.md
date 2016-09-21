@@ -1,2 +1,2 @@
-# EECS-4314-Group-G
+# EECS-4314-Group-Space-Jam
 
